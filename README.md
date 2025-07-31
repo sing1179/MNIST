@@ -1,7 +1,7 @@
 # MNIST
-# 🔍 FFN_GeGLU vs FFN_ReLU on MNIST
+# FFN_GeGLU vs FFN_ReLU on MNIST
 
-## 📌 Description
+## Description
 
 This experiment evaluates the performance of two Feed-Forward Network (FFN) variants on the MNIST digit classification task:
 
@@ -19,7 +19,7 @@ The models are implemented in **PyTorch** using `einsum` notation for matrix ope
 
 ---
 
-## ⚙️ Setup
+## Setup
 
 ### Requirements
 
